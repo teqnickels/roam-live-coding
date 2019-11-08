@@ -1,5 +1,7 @@
 # Live code of Roam (Learners Guild Project)
 
+# Summary
+This is a fork of a Live Coding project that was completed at the Learner's Guild
 ## Links
 
 - [Module](https://curriculum.learnersguild.org/Phases/Practice/Modules/Roam/)
